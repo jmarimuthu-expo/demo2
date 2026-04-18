@@ -1,2 +1,2 @@
 # demo2
-to clone
+to clone the data from main/local repository
